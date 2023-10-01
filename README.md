@@ -69,12 +69,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
 # Project Details
+
 - Create react app
 - Configured TailwindCSS
+- Header
+- Login form
+- Signup form
 
 # Features
+
 - Login/Signup page
   - Sign in/Sign up form
   - redirect to browse page
@@ -84,7 +88,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
     - Trailer in background
     - Title and description
     - Movie suggestion
-      - Movie list * n
+      - Movie list \* n
 - NetflixGPT
   - Search bar
   - Movie suggestions
