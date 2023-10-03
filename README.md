@@ -98,6 +98,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Updated store with trailer data
 - Embedded youtube video and made it autoplay and mute
 - Used tailwind css to make it look similar
+- Build movie list
+- Build movie card
+- TMDB Image CDN url
+- Popular list with new API
 
 # Features
 
