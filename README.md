@@ -102,6 +102,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Build movie card
 - TMDB Image CDN url
 - Popular list with new API
+- GPT search feature
+- GPT search bar
+- Multi language feature
+- GPT APIs
 
 # Features
 
